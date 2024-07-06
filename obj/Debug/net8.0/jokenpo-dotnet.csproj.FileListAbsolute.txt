@@ -1,0 +1,14 @@
+/var/projects/jokenpo-dotnet/bin/Debug/net8.0/jokenpo-dotnet
+/var/projects/jokenpo-dotnet/bin/Debug/net8.0/jokenpo-dotnet.deps.json
+/var/projects/jokenpo-dotnet/bin/Debug/net8.0/jokenpo-dotnet.runtimeconfig.json
+/var/projects/jokenpo-dotnet/bin/Debug/net8.0/jokenpo-dotnet.dll
+/var/projects/jokenpo-dotnet/bin/Debug/net8.0/jokenpo-dotnet.pdb
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.AssemblyInfoInputs.cache
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.AssemblyInfo.cs
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.csproj.CoreCompileInputs.cache
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.dll
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/refint/jokenpo-dotnet.dll
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.pdb
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/jokenpo-dotnet.genruntimeconfig.cache
+/var/projects/jokenpo-dotnet/obj/Debug/net8.0/ref/jokenpo-dotnet.dll
